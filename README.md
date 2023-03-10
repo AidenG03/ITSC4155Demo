@@ -1,3 +1,3 @@
 # Read me file
 
-Use for the course ITSC 4155
+Used for the course ITSC 4155
